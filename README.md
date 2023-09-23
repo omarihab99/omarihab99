@@ -19,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/omar-ihab-oi99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omar-ihab-oi99/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/omar.ihab.902/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/omar.ihab.902/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/omar.ihab.902/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/omar.ihab.902/" height="30" width="40" /></a>
 <a href="https://leetcode.com/omarihab99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/omarihab99/" height="30" width="40" /></a>
 </p>
 
