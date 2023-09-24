@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Nodejs and Angularjs**
 
-- 📚 I'm currently reading [**Fundamentals of Database Systems**](https://www.pearson.com/store/en-us/pearsonplus/p/9780137502523.html)
+- 📚 I'm currently reading [Fundamentals of Database Systems](https://www.pearson.com/store/en-us/pearsonplus/p/9780137502523.html)
 
 - 👨‍💻 All of my projects are available at [https://github.com/omarihab99/](https://github.com/omarihab99/)
 
