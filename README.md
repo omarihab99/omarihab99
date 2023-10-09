@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Art Gallery](https://github.com/omarihab99/Art-Gallery)
 
-- 🌱 I’m currently learning **Nodejs and Angularjs**
+- 🌱 I’m currently learning more about **Laravel**
 
 - 📚 I'm currently reading [Fundamentals of Database Systems](https://www.pearson.com/store/en-us/pearsonplus/p/9780137502523.html)
 
