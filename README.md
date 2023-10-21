@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="400"/>
-</div>
+[![An image of @omarihab99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omarihab99)](https://holopin.io/@omarihab99)
 <h1 align="center">Hi 👋, I'm Omar Ihab</h1>
 <h3 align="center">A passionate backend developer from Egypt</h3>
 
