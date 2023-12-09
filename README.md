@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarihab99&label=Profile%20views&color=0e75b6&style=flat" alt="omarihab99" /> </p>
 
-- 🔭 I’m currently working on [Art Gallery](https://github.com/omarihab99/Art-Gallery)
+- 🔭 I’m currently working on [AoC 2023](https://github.com/omarihab99/AoC-2023)
 
 - 🌱 I’m currently learning more about **Laravel and React**
 
