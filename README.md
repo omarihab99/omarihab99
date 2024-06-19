@@ -1,6 +1,6 @@
 [![An image of @omarihab99's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/omarihab99)](https://holopin.io/@omarihab99)
 <h1 align="center">Hi 👋, I'm Omar Ihab</h1>
-<h3 align="center">A passionate backend developer from Egypt</h3>
+<h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarihab99&label=Profile%20views&color=0e75b6&style=flat" alt="omarihab99" /> </p>
 
