@@ -4,15 +4,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarihab99&label=Profile%20views&color=0e75b6&style=flat" alt="omarihab99" /> </p>
 
-- 🔭 I’m currently working on [AoC 2023](https://github.com/omarihab99/AoC-2023)
+- 🔭 I’m currently working on [Kompoze](https://github.com/omarihab99/Kompoze)
 
-- 🌱 I’m currently learning more about **Laravel and React**
+- 🌱 I’m currently learning more about different topics such as **Rust** (learning it for fun).
 
-- 📚 I'm currently reading [Fundamentals of Database Systems](https://www.pearson.com/store/en-us/pearsonplus/p/9780137502523.html)
+- 📚 I'm currently reading about browsers and how they work internally (e.g HTML parsing, js engines).
 
 - 👨‍💻 All of my projects are available at [https://github.com/omarihab99/](https://github.com/omarihab99/)
 
-- 💬 Ask me about **Data structures and algorithms and OOP**
+- 💬 Ask me about **DSA, OOP, React, TS/JS**
 
 - 📫 How to reach me **omar.ihab.mohamed99@gmail.com**
 
